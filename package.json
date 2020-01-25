@@ -14,14 +14,14 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "require-dir": "^1.2.0",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.8.9",
   },
   "devDependencies": {
     "factory-girl": "^5.0.4",
     "faker": "^4.1.0",
     "jest": "^25.1.0",
     "mock-mongoose": "^7.4.0-r2",
-    "mongoose": "^5.8.9",
     "nodemon": "^2.0.2",
     "supertest": "^4.0.2"
   }
